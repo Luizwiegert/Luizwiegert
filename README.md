@@ -14,7 +14,7 @@ Sou estudante de Sistemas de Informação na UNIVAG e desenvolvo com IA no centr
 
 ## Projetos
 
-### [Moviegram](https://github.com/Luizwiegert/moviegram) · [ver no ar](https://moviegram-chi.vercel.app)
+### [Moviegram](https://moviegram-chi.vercel.app)
 
 A linha do tempo inteira da Marvel para acompanhar com a turma: cada um marca o que já viu, dá nota, comenta e disputa o ranking até a estreia de Vingadores: Doomsday. Roda em modo demonstração sem nenhuma configuração.
 
