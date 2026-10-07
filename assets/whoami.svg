@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="412" viewBox="0 0 840 412" role="img" aria-label="luiz@github: ~">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:13px;fill:#c9d1d9}
+.dim{fill:#8b949e}.g{fill:#3fb950}.b{fill:#58a6ff}
+.in{opacity:0;animation:in .5s ease-out forwards}
+@keyframes in{to{opacity:1}}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+
+@media (prefers-reduced-motion:reduce){.in,.cell{animation:none;opacity:1}.cur{animation:none}}
+</style>
+<rect x=".5" y=".5" width="839" height="411" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M.5 34V10.5a10 10 0 0 1 10-10h819a10 10 0 0 1 10 10V34z" fill="#161b22"/>
+<line x1=".5" y1="34" x2="839.5" y2="34" stroke="#30363d"/>
+<circle cx="20" cy="17" r="5.5" fill="#ff5f56"/><circle cx="38" cy="17" r="5.5" fill="#ffbd2e"/><circle cx="56" cy="17" r="5.5" fill="#27c93f"/>
+<text x="420.0" y="21.5" text-anchor="middle" class="dim" style="font-size:12px">luiz@github: ~</text>
+<text x="24" y="62"><tspan class="g">luiz@github</tspan><tspan class="dim">:</tspan><tspan class="b">~</tspan><tspan class="dim">$ </tspan>whoami</text>
+<text class="in" style="font-size:7.8px;animation-delay:0.30s" fill="#c9d1d9" x="24" y="86.0" textLength="173.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                          =:...::=+**</text>
+<text class="in" style="font-size:7.8px;animation-delay:0.34s" fill="#c9d1d9" x="24" y="95.4" textLength="182.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                      +=-:........:--:=</text>
+<text class="in" style="font-size:7.8px;animation-delay:0.38s" fill="#c9d1d9" x="24" y="104.8" textLength="187.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                    +:...........:-:::-:</text>
+<text class="in" style="font-size:7.8px;animation-delay:0.42s" fill="#c9d1d9" x="24" y="114.2" textLength="196.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                   +.....:-..:...:-:---:.=</text>
+<text class="in" style="font-size:7.8px;animation-delay:0.46s" fill="#c9d1d9" x="24" y="123.6" textLength="196.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                   ......:-:.::....:-=::::</text>
+<text class="in" style="font-size:7.8px;animation-delay:0.50s" fill="#c9d1d9" x="24" y="133.0" textLength="196.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                   ........:..:-...:--:.:-</text>
+<text class="in" style="font-size:7.8px;animation-delay:0.54s" fill="#c9d1d9" x="24" y="142.4" textLength="196.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                   :......:-=+*#+==*+++#*=</text>
+<text class="in" style="font-size:7.8px;animation-delay:0.58s" fill="#c9d1d9" x="24" y="151.8" textLength="192.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                   *...:-=+*#%@@@@@%%%%@#</text>
+<text class="in" style="font-size:7.8px;animation-delay:0.62s" fill="#c9d1d9" x="24" y="161.2" textLength="196.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                    =..---=++++*#@@#+=*#%%</text>
+<text class="in" style="font-size:7.8px;animation-delay:0.66s" fill="#c9d1d9" x="24" y="170.6" textLength="196.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                    -..--=-==##++@@@%%@@@@</text>
+<text class="in" style="font-size:7.8px;animation-delay:0.70s" fill="#c9d1d9" x="24" y="180.0" textLength="196.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                    +.:-=*##%@@#+%@@@@@@@@</text>
+<text class="in" style="font-size:7.8px;animation-delay:0.74s" fill="#c9d1d9" x="24" y="189.4" textLength="192.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                     +:--=*#%@%+=#@@@@@@@</text>
+<text class="in" style="font-size:7.8px;animation-delay:0.78s" fill="#c9d1d9" x="24" y="198.8" textLength="192.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                       ---=+*%#+=+#%@@@@@</text>
+<text class="in" style="font-size:7.8px;animation-delay:0.82s" fill="#c9d1d9" x="24" y="208.2" textLength="192.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                        :---+*#**#%%%@@@@</text>
+<text class="in" style="font-size:7.8px;animation-delay:0.86s" fill="#c9d1d9" x="24" y="217.6" textLength="187.5" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                      ++:::--=*+++*#%%%%</text>
+<text class="in" style="font-size:7.8px;animation-delay:0.90s" fill="#c9d1d9" x="24" y="227.0" textLength="182.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                     :...::::-=+*#%@@@@</text>
+<text class="in" style="font-size:7.8px;animation-delay:0.94s" fill="#c9d1d9" x="24" y="236.4" textLength="182.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                    =......--.:-=+*#%*-</text>
+<text class="in" style="font-size:7.8px;animation-delay:0.98s" fill="#c9d1d9" x="24" y="245.8" textLength="196.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                  =........:+#*++**#%@#::-</text>
+<text class="in" style="font-size:7.8px;animation-delay:1.02s" fill="#c9d1d9" x="24" y="255.2" textLength="196.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">               *-............=%@@%%%@%@@=-</text>
+<text class="in" style="font-size:7.8px;animation-delay:1.06s" fill="#c9d1d9" x="24" y="264.6" textLength="192.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             =:................=@@%@#@@@+</text>
+<text class="in" style="font-size:7.8px;animation-delay:1.10s" fill="#c9d1d9" x="24" y="274.0" textLength="206.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">          *-......::............:%@@%@@=:.:=</text>
+<text class="in" style="font-size:7.8px;animation-delay:1.14s" fill="#c9d1d9" x="24" y="283.4" textLength="210.9" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         :........::::::..........+@@@%::::.:</text>
+<text class="in" style="font-size:7.8px;animation-delay:1.18s" fill="#c9d1d9" x="24" y="292.8" textLength="215.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">       -...........:::::::.........-%@-:::::.=</text>
+<text class="in" style="font-size:7.8px;animation-delay:1.22s" fill="#c9d1d9" x="24" y="302.2" textLength="215.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">      :..........:..::::::::::..:::.:*:.::::::</text>
+<text class="in" style="font-size:7.8px;animation-delay:1.26s" fill="#c9d1d9" x="24" y="311.6" textLength="215.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     -................:...::::::...:..-:::::::</text>
+<text class="in" style="font-size:7.8px;animation-delay:1.30s" fill="#c9d1d9" x="24" y="321.0" textLength="220.3" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    +..................::....:::::..:..-:::::.=</text>
+<text class="in" style="font-size:7.8px;animation-delay:1.34s" fill="#c9d1d9" x="24" y="330.4" textLength="220.3" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    ....................:.....:.::...:...::::.-</text>
+<text class="in" style="font-size:7.8px;animation-delay:1.38s" fill="#c9d1d9" x="24" y="339.8" textLength="220.3" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   -...................................:..:.::.</text>
+<text class="in" style="font-size:7.8px;animation-delay:1.42s" fill="#c9d1d9" x="24" y="349.2" textLength="220.3" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   -.................................:..:.:..:.</text>
+<text class="in" style="font-size:7.8px;animation-delay:1.46s" fill="#c9d1d9" x="24" y="358.6" textLength="220.3" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   =...........................................</text>
+<text class="in" style="animation-delay:.5s" x="372" y="104"><tspan class="g" font-weight="bold">luiz</tspan><tspan class="dim">@</tspan><tspan class="g" font-weight="bold">github</tspan></text>
+<text class="in dim" style="animation-delay:.6s" x="372" y="124">───────────</text>
+<text class="in" style="animation-delay:0.70s" x="372" y="150"><tspan class="b">nome</tspan><tspan x="448">Luiz Eduardo Wiegert</tspan></text>
+<text class="in" style="animation-delay:0.82s" x="372" y="176"><tspan class="b">curso</tspan><tspan x="448">Sistemas de Informação · UNIVAG</tspan></text>
+<text class="in" style="animation-delay:0.94s" x="372" y="202"><tspan class="b">foco</tspan><tspan x="448">Dev AI-first</tspan></text>
+<text class="in" style="animation-delay:1.06s" x="372" y="228"><tspan class="b">ia</tspan><tspan x="448">Claude Code · MCP · Agentes · Automações</tspan></text>
+<text class="in" style="animation-delay:1.18s" x="372" y="254"><tspan class="b">stack</tspan><tspan x="448">React Native · Expo · Firebase · JS</tspan></text>
+<text class="in" style="animation-delay:1.30s" x="372" y="280"><tspan class="b">projetos</tspan><tspan x="448">Book-Level · Moviegram · JARVIS</tspan></text>
+<rect class="in" style="animation-delay:1.50s" x="372" y="312" width="20" height="12" rx="2" fill="#ff7b72"/>
+<rect class="in" style="animation-delay:1.55s" x="398" y="312" width="20" height="12" rx="2" fill="#ffa657"/>
+<rect class="in" style="animation-delay:1.60s" x="424" y="312" width="20" height="12" rx="2" fill="#e3b341"/>
+<rect class="in" style="animation-delay:1.65s" x="450" y="312" width="20" height="12" rx="2" fill="#3fb950"/>
+<rect class="in" style="animation-delay:1.70s" x="476" y="312" width="20" height="12" rx="2" fill="#58a6ff"/>
+<rect class="in" style="animation-delay:1.75s" x="502" y="312" width="20" height="12" rx="2" fill="#bc8cff"/>
+<rect class="in" style="animation-delay:1.80s" x="528" y="312" width="20" height="12" rx="2" fill="#f778ba"/>
+<rect class="in" style="animation-delay:1.85s" x="554" y="312" width="20" height="12" rx="2" fill="#c9d1d9"/>
+<text x="24" y="390"><tspan class="g">luiz@github</tspan><tspan class="dim">:</tspan><tspan class="b">~</tspan><tspan class="dim">$ </tspan></text><rect class="cur" x="126" y="378" width="8" height="15" fill="#c9d1d9"/>
+</svg>
