@@ -398,8 +398,8 @@ text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberatio
 <rect class="cell" style="animation-delay:1.34s" x="790.5" y="106" width="11" height="11" rx="2" fill="#161b22"><title>0 em 04/10/2026</title></rect>
 <rect class="cell" style="animation-delay:1.34s" x="790.5" y="120" width="11" height="11" rx="2" fill="#161b22"><title>0 em 05/10/2026</title></rect>
 <rect class="cell" style="animation-delay:1.34s" x="790.5" y="134" width="11" height="11" rx="2" fill="#161b22"><title>0 em 06/10/2026</title></rect>
-<rect class="cell" style="animation-delay:1.34s" x="790.5" y="148" width="11" height="11" rx="2" fill="#161b22"><title>0 em 07/10/2026</title></rect>
-<text x="62.5" y="226"><tspan class="g" font-weight="bold">8</tspan> contribuições no último ano</text>
+<rect class="cell" style="animation-delay:1.34s" x="790.5" y="148" width="11" height="11" rx="2" fill="#006d32"><title>2 em 07/10/2026</title></rect>
+<text x="62.5" y="226"><tspan class="g" font-weight="bold">10</tspan> contribuições no último ano</text>
 <text class="dim" style="font-size:10px" x="775.5" y="225">mais</text>
 <text class="dim" style="font-size:10px" x="692.5" y="225" text-anchor="end">menos</text>
 <rect x="700.5" y="216" width="11" height="11" rx="2" fill="#161b22"/>
