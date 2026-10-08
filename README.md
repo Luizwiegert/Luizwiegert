@@ -20,11 +20,15 @@ A linha do tempo inteira da Marvel para acompanhar com a turma: cada um marca o 
 
 `TypeScript` `Vite` `Supabase` `TMDB API` `Vercel`
 
+<a href="https://moviegram-chi.vercel.app"><img src="https://raw.githubusercontent.com/Luizwiegert/moviegram/main/docs/screenshots/celulares.png" width="840" alt="Telas do Moviegram no celular: linha do tempo, lista de filmes, ranking e perfil"></a>
+
 ### [Book-Level](https://github.com/Luizwiegert/Book-Level)
 
 Aplicativo mobile que aplica a lógica de progressão de jogos a hábitos de leitura: cada página lida vira XP, com 50 níveis, streaks diários, 13 conquistas, grupos com chat em tempo real e ranking entre amigos.
 
 `React Native` `Expo SDK 54` `Firebase Auth` `Firestore` `Google Books API`
+
+<a href="https://github.com/Luizwiegert/Book-Level"><img src="https://raw.githubusercontent.com/Luizwiegert/Book-Level/main/docs/screenshots/celulares.png" width="840" alt="Telas do BookLevel no celular: início, biblioteca, progresso e perfil"></a>
 
 ### [JARVIS](https://github.com/Luizwiegert/jarvis) · em desenvolvimento
 
